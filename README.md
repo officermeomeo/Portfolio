@@ -6,7 +6,6 @@ Below I've attatched a few snapshots of the website for your reference:
 
 //Enabled Light Mode
 ![localhost_5500_](https://user-images.githubusercontent.com/50805195/127385238-bf838863-08e3-46ca-8aa4-e0e0f1c0aa8a.png)
-![localhost_5500_ (2)](https://user-images.githubusercontent.com/50805195/127385255-f01d32e5-dc60-4379-877a-dfb69f643b8d.png)
 ![localhost_5500_ (7)](https://user-images.githubusercontent.com/50805195/127386262-5b283cae-28e3-46dc-a82f-a3fd3c65f0f6.png)
 
 
