@@ -12,6 +12,4 @@ Below I've attatched a few snapshots of the website for your reference:
 
 //Enabled Dark Mode
 ![localhost_5500_ (4)](https://user-images.githubusercontent.com/50805195/127385472-3b4370fb-9a0b-4c5f-a400-77bb830a0609.png)
-![localhost_5500_ (5)](https://user-images.githubusercontent.com/50805195/127385489-bd4ccebb-3765-4932-a0fa-5efa73554a21.png)
-![localhost_5500_ (6)](https://user-images.githubusercontent.com/50805195/127385496-2f0dd930-7646-4a94-aecc-95b11ad41760.png)
 
